@@ -126,11 +126,11 @@ Potential future improvements for the CDMS include:
 
 ## Contributors
 
-* **Stanley Chew Jun Xian** (Student ID: 23ABC04421, Programme: CS, Practical Group: 9) 
-* **Tee Chi Sheng** (Student ID: 23ACB05145, Programme: CS, Practical Group: 10) 
-* **Wong Carman** (Student ID: 23ACB05293, Programme: CT, Practical Group: 18) 
-* **Kuik Kim Hong** (Student ID: 22ACB04878, Programme: CS, Practical Group: 9) 
+* **Stanley Chew Jun Xian** 
+* **Tee Chi Sheng**
+* **Wong Carman**
+* **Kuik Kim Hong**
 
 ## License
 
-This project was developed as part of the UCCD1203 Database Development and Applications course at Universiti Tunku Abdul Rahman for the Academic Year 2023/2024, June Trimester.
+This project was developed as part of the  Database Development and Applications course at Universiti Tunku Abdul Rahman.
